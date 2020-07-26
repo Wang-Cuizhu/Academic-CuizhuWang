@@ -1,7 +1,7 @@
 ---
 title: Cuizhu Wang
 role: PhD Candidate at University College Cork
-avatar_filename: ""
+avatar_filename: 旗袍头像.jpg
 organizations:
   - name: University College Cork
     url: https://www.ucc.ie/en/
@@ -21,13 +21,13 @@ education:
       year: ""
     - course: "MA in Asian Studies "
       institution: University College Cork
-      year: -3
+      year: ""
     - course: "BA in Linguistic "
       institution: "China Three Gorges University "
       year: ""
     - course: BA in Management
       institution: "China Three Gorges University "
-      year: -3
+      year: ""
 email: dawncz_wang@hotmail.com
 user_groups:
   - Researchers
